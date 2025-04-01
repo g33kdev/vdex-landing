@@ -6,6 +6,13 @@ include_in_header: true
 
 ##  Changelog
 
+### **Version 1.3.0**
+
+What's New:
+
+- Allow selecting text in the CVE details view
+- Added a button to open CVE details in a web browser
+
 ### **Version 1.2.0**
 
 What's New:
